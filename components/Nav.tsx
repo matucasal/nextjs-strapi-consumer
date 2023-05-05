@@ -21,8 +21,8 @@ const Nav = () => {
         <Link href="/about">
         About
         </Link>
-        <Link href="/films">
-        Films
+        <Link href="/activos">
+        Activos
         </Link>
     </nav>
   );
